@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ArtSpace</string>
+    <string name="author_teng_bangkeng">Author: Teng Bangkeng</string>
+    <string name="graduation_2022">Graduation 2022</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
 </resources>
